@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Odev2\Odev2\bin\Debug\net7.0\Odev2.exe
+C:\Users\user\Desktop\Odev2\Odev2\bin\Debug\net7.0\Odev2.deps.json
+C:\Users\user\Desktop\Odev2\Odev2\bin\Debug\net7.0\Odev2.runtimeconfig.json
+C:\Users\user\Desktop\Odev2\Odev2\bin\Debug\net7.0\Odev2.dll
+C:\Users\user\Desktop\Odev2\Odev2\bin\Debug\net7.0\Odev2.pdb
+C:\Users\user\Desktop\Odev2\Odev2\obj\Debug\net7.0\Odev2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Odev2\Odev2\obj\Debug\net7.0\Odev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Odev2\Odev2\obj\Debug\net7.0\Odev2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Odev2\Odev2\obj\Debug\net7.0\Odev2.AssemblyInfo.cs
+C:\Users\user\Desktop\Odev2\Odev2\obj\Debug\net7.0\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Odev2\Odev2\obj\Debug\net7.0\Odev2.dll
+C:\Users\user\Desktop\Odev2\Odev2\obj\Debug\net7.0\refint\Odev2.dll
+C:\Users\user\Desktop\Odev2\Odev2\obj\Debug\net7.0\Odev2.pdb
+C:\Users\user\Desktop\Odev2\Odev2\obj\Debug\net7.0\Odev2.genruntimeconfig.cache
+C:\Users\user\Desktop\Odev2\Odev2\obj\Debug\net7.0\ref\Odev2.dll

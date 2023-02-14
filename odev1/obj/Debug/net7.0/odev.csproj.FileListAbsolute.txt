@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\odev\bin\Debug\net7.0\odev.exe
+C:\Users\user\Desktop\odev\bin\Debug\net7.0\odev.deps.json
+C:\Users\user\Desktop\odev\bin\Debug\net7.0\odev.runtimeconfig.json
+C:\Users\user\Desktop\odev\bin\Debug\net7.0\odev.dll
+C:\Users\user\Desktop\odev\bin\Debug\net7.0\odev.pdb
+C:\Users\user\Desktop\odev\obj\Debug\net7.0\odev.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\odev\obj\Debug\net7.0\odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\odev\obj\Debug\net7.0\odev.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\odev\obj\Debug\net7.0\odev.AssemblyInfo.cs
+C:\Users\user\Desktop\odev\obj\Debug\net7.0\odev.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\odev\obj\Debug\net7.0\odev.dll
+C:\Users\user\Desktop\odev\obj\Debug\net7.0\refint\odev.dll
+C:\Users\user\Desktop\odev\obj\Debug\net7.0\odev.pdb
+C:\Users\user\Desktop\odev\obj\Debug\net7.0\odev.genruntimeconfig.cache
+C:\Users\user\Desktop\odev\obj\Debug\net7.0\ref\odev.dll
