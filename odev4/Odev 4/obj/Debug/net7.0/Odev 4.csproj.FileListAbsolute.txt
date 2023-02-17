@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+C:\Users\user\Desktop\odev4\Odev 4\bin\Debug\net7.0\Odev 4.exe
+C:\Users\user\Desktop\odev4\Odev 4\bin\Debug\net7.0\Odev 4.deps.json
+C:\Users\user\Desktop\odev4\Odev 4\bin\Debug\net7.0\Odev 4.runtimeconfig.json
+C:\Users\user\Desktop\odev4\Odev 4\bin\Debug\net7.0\Odev 4.dll
+C:\Users\user\Desktop\odev4\Odev 4\bin\Debug\net7.0\Odev 4.pdb
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.AssemblyInfo.cs
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.dll
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\refint\Odev 4.dll
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.pdb
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.genruntimeconfig.cache
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\ref\Odev 4.dll
+=======
+C:\Users\user\Desktop\odev4\Odev 4\bin\Debug\net7.0\Odev 4.exe
+C:\Users\user\Desktop\odev4\Odev 4\bin\Debug\net7.0\Odev 4.deps.json
+C:\Users\user\Desktop\odev4\Odev 4\bin\Debug\net7.0\Odev 4.runtimeconfig.json
+C:\Users\user\Desktop\odev4\Odev 4\bin\Debug\net7.0\Odev 4.dll
+C:\Users\user\Desktop\odev4\Odev 4\bin\Debug\net7.0\Odev 4.pdb
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.AssemblyInfo.cs
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.dll
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\refint\Odev 4.dll
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.pdb
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\Odev 4.genruntimeconfig.cache
+C:\Users\user\Desktop\odev4\Odev 4\obj\Debug\net7.0\ref\Odev 4.dll
+>>>>>>> 199fa903c737cc8e43de027ba7dbcca31118369e

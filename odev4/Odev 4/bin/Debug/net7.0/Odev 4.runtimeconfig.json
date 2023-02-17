@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+{
+  "runtimeOptions": {
+    "tfm": "net7.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "7.0.0"
+    }
+  }
+=======
+{
+  "runtimeOptions": {
+    "tfm": "net7.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "7.0.0"
+    }
+  }
+>>>>>>> 199fa903c737cc8e43de027ba7dbcca31118369e
+}
