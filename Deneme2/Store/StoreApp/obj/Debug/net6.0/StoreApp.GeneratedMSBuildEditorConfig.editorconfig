@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StoreApp
 build_property.RootNamespace = StoreApp
-build_property.ProjectDir = C:\Users\user\Desktop\Deneme2\Store\StoreApp\
+build_property.ProjectDir = c:\Users\user\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\Deneme2\Store\StoreApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Deneme2\Store\StoreApp
+build_property.MSBuildProjectDirectory = c:\Users\user\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\Deneme2\Store\StoreApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/user/Desktop/Deneme2/Store/StoreApp/Views/Home/Index.cshtml]
+[c:/Users/user/Documents/GitHub/Bright2301_EnesBatuhanHalac_Odevler/Deneme2/Store/StoreApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
