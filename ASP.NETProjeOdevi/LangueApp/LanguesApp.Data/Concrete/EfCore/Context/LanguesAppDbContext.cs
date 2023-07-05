@@ -7,30 +7,25 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LanguesApp.Data.Context
+namespace LanguesApp.Data.Concrete.EfCore.Context
 {
     public class LanguesAppDbContext : DbContext
     {
-        public LanguesAppDbContext()
-        {
-            
-        }
-
-        public LanguesAppDbContext(DbContextOptions options) : base(options)
+        public LanguesAppDbContext(DbContextOptions<LanguesAppDbContext> options) : base(options)
         {
         }
 
         public DbSet<Teacher> Teachers { get; set; }
         public DbSet<Langue> Langues { get; set; }
-  
+
         public DbSet<LangueTeacher> LangueTeachers { get; set; }
 
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlite("Data Source=LanguesApp.Db");
-            base.OnConfiguring(optionsBuilder);
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlite("Data Source=LanguesApp.Db");
+        //    base.OnConfiguring(optionsBuilder);
+        //}
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());//burayi arastir

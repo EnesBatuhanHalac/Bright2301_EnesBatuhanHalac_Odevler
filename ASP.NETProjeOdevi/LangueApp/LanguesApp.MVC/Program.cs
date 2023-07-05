@@ -1,16 +1,17 @@
-using LanguesApp.Data.Context;
+using LanguesApp.Data.Concrete.EfCore.Context;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<LanguesAppDbContext>(options =>
+{
+    options.UseSqlite(builder.Configuration.GetConnectionString("sqlconnection"));
+});
+
 builder.Services.AddControllersWithViews();
 
-//builder.Services.AddDbContext<LanguesAppDbContext>(options =>
-//{
-//    options.UseSqlite(builder.Configuration.GetConnectionString("sqlconnection"),
-//    b => b.MigrationsAssembly("LanguesApp"));
-//});
+
 
 
 
