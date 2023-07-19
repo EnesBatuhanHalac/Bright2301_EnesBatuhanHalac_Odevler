@@ -1307,11 +1307,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HAFTASONU\\Desktop\\Asama3\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj",
+      "projectUniqueName": "C:\\Users\\HAFTASONU\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama4\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj",
       "projectName": "LanguesApp.Data",
-      "projectPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama3\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj",
+      "projectPath": "C:\\Users\\HAFTASONU\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama4\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj",
       "packagesPath": "C:\\Users\\HAFTASONU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama3\\LangueApp\\LanguesApp.Data\\obj\\",
+      "outputPath": "C:\\Users\\HAFTASONU\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama4\\LangueApp\\LanguesApp.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1332,8 +1332,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\HAFTASONU\\Desktop\\Asama3\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj": {
-              "projectPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama3\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj"
+            "C:\\Users\\HAFTASONU\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama4\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj": {
+              "projectPath": "C:\\Users\\HAFTASONU\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama4\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj"
             }
           }
         }

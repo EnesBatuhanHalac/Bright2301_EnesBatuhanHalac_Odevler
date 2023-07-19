@@ -35,7 +35,7 @@ namespace LanguesApp.Business.Concrete
 
         }
 
-        public async Task<List<Langue>> GetAllLangues()
+        public async Task<List<Langue>> GetAllLanguesAsync()
         {
             var result= await _repository.GetAllLangues();
             return result;

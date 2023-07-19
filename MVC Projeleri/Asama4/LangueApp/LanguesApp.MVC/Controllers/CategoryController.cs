@@ -16,7 +16,7 @@ namespace LanguesApp.MVC.Controllers
 
         public async Task<IActionResult> Index()
         {
-            List<Langue> langueList= await _langueService.GetAllLangues();
+            List<Langue> langueList= await _langueService.GetAllLanguesAsync();
             List<LangueViewModel> languesList = langueList.Select(l => new LangueViewModel
             {
                 Url = l.Url,

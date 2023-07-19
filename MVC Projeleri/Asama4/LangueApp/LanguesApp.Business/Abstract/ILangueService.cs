@@ -19,7 +19,7 @@ namespace LanguesApp.Business.Abstract
 
         #region Langue
 
-        Task<List<Langue>> GetAllLangues();
+        Task<List<Langue>> GetAllLanguesAsync();
 
         Task<Langue> GetLangueById(int id);
         #endregion

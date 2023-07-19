@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dw/YdgcMmPmFzjegpq+eWHwRBOmbdz3rNbBkx3vsHtqTcLerP6ynUpR0jPK5zg35vA/Zt2cZ1IoGIDrXElMYbA==",
+  "dgSpecHash": "9+GWxadubcRPfFYRo1/Z40fu+Lc2rfJmwnWgHTTut7k/rcyujDqNtGyg9iIZLbeMsJFpTM+EM8lsrtgYJ6ppuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HAFTASONU\\Desktop\\Asama3\\LangueApp\\LanguesApp.MVC\\LanguesApp.MVC.csproj",
+  "projectFilePath": "C:\\Users\\HAFTASONU\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama4\\LangueApp\\LanguesApp.MVC\\LanguesApp.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HAFTASONU\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HAFTASONU\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.19\\microsoft.data.sqlite.core.6.0.19.nupkg.sha512",

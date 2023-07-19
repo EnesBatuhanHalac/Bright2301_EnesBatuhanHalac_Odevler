@@ -1,45 +1,12 @@
-﻿@model CategoryListViewModel
-<div class="list-group">
-    <a class="list-group-item list-group-item-action @(Model.SelectedCategoryUrl=="" ? "active" : "")"
-       asp-area=""
-       asp-controller="TeacherShop"
-       asp-action="TeacherList"
-       asp-route-langueurl=""
-       asp-route-teacherurl="">Tüm Kategoriler</a>
-   
-       @foreach(var langueViewModel in Model.LangueViewModelList)
-       {
+﻿@model List<LangueViewModel>
 
-         <a class="list-group-item list-group-item-action 
-            @(Model.SelectedCategoryUrl==langueViewModel.Url ? "active" : "")"
-            asp-area=""
-            asp-controller="TeacherShop"
-            asp-action="TeacherList"
-            asp-route-langueurl="@langueViewModel.Url"
-            asp-route-teacherurl="">@langueViewModel.Name
-
-         </a>
-
-       }
-</div>
-
-
-@*@model CategoryListViewModel
-
-<div class="list-group">
-    <a class="list-group-item list-group-item-action @(Model.SelectedCategoryUrl=="" ? "active" : "")"
-       asp-area=""
-       asp-controller="TeacherShop"
-       asp-action="TeacherList"
-       asp-route-langueurl=""
-       asp-route-teacherurl="">Tüm Kategoriler</a>
-    @foreach (var categoryViewModel in Model.CategoryViewModelList)
+    <h1 class="display-6 text-danger" >Categories</h1>
+    @foreach(var cat in Model)
     {
-        <a class="list-group-item list-group-item-action @(Model.SelectedCategoryUrl==categoryViewModel.Url ? "active" : "")"
-           asp-area=""
-           asp-controller="BooksShop"
-           asp-action="BookList"
-           asp-route-categoryurl="@categoryViewModel.Url"
-           asp-route-authorurl="">@categoryViewModel.Name</a>
+       
+        <div class="row">
+        <a class="btn btn-primary">@cat.Name</a>
+        <hr>
+        </div>
+        
     }
-</div>*@

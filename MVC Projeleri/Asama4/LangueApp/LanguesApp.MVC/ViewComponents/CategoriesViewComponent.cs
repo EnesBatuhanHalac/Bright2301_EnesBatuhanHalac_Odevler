@@ -3,7 +3,7 @@ using LanguesApp.Entity.Entities;
 using LanguesApp.MVC.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LanguesApp.MVC.Components
+namespace LanguesApp.MVC.ViewComponents
 {
     public class CategoriesViewComponent:ViewComponent
     {
@@ -14,29 +14,17 @@ namespace LanguesApp.MVC.Components
             _langueManager = langueManager;
         }
 
-        public async Task<IViewComponentResult>InvokeAsync()
+        public async Task<IViewComponentResult> InvokeAsync()
         {
-            CategoryListViewModel langueListViewModel = new CategoryListViewModel();
-            if (RouteData.Values["langueurl"]!= null)
-            {
-                langueListViewModel.SelectedCategoryUrl = RouteData.Values["langueurl"].ToString();
-            }
-            else
-            {
-                langueListViewModel.SelectedCategoryUrl = "";
-            }
 
-            List<Langue>langues=await _langueManager.GetAllAsync();
-            List<LangueViewModel> langueViewModelList = langues.Select(t => new LangueViewModel
+            List<Langue> langueList= await _langueManager.GetAllLanguesAsync();
+            List<LangueViewModel> CategoryList = langueList.Select(t => new LangueViewModel
             {
                 About=t.About,
                 Name=t.Name,
                 Url=t.Url
             }).ToList();
-
-            langueListViewModel.LangueViewModelList = langueViewModelList;
-
-            return View(langueListViewModel);
+            return View(CategoryList);
         }
     }
 }
