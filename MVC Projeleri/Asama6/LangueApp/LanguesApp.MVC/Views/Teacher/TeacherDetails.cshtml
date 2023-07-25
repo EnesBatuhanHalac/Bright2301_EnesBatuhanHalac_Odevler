@@ -1,0 +1,16 @@
+﻿@model TeacherCategoryViewModel
+<br />
+<h1>Ogretmen Detay Bilgisi</h1>
+
+<div class="text-center">
+   <img class="cart-img-top" style="width:300px" src="~/images/@Model.ImageUrl" alt="@Model.FullName">
+
+<p class="display-4">@Model.FullName</p>
+<p> <span class="text-danger fw-bold">PriceForHours: </span>@Model.Price</p>
+<p> <span class="text-danger fw-bold">Country:</span>  @Model.Country</p>
+<p> <span class="text-danger fw-bold">About:</span> @Model.About</p>
+<p>  <span class="text-danger fw-bold">Teacher'sAge:</span>@Model.Age</p>
+ <p>  <span class="text-danger fw-bold">Email:</span>  @Model.Email</p>
+ <p>  <span class="text-danger fw-bold">Teacher Phone Number:</span>  @Model.Phone</p>
+
+</div>

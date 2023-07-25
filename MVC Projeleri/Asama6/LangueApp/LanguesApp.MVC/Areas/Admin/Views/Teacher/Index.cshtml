@@ -1,0 +1,125 @@
+﻿@model TeacherListViewModel
+ <div class="row my-2">
+     <div class="col-md-6">
+         <h1 class="display-6">@(Model.SourceAction == "Index" ? "Teachers": "Deleted Teachers" )</h1>
+     </div>
+     @if(Model.SourceAction == "Index")
+    {
+        <div class="col-md-6 d-flex align-items-center justify-content-end">
+            <a asp-area="Admin"
+            asp-controller="Teacher"
+            asp-action="Create"
+            class="btn btn-primary">NewTeacher</a>
+
+        </div>
+    }
+   
+ </div>
+@if(Model.TeacherViewModelList.Count > 0)
+{
+
+    <div class="card mb-4">
+
+        <div class="card-body">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Image</th>
+                        <th>FullName</th>
+                        <th>Age</th>
+                        <th>CreatedDate</th>
+                        <th>IsActive</th>
+                        <th width="100">Configurations</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var teacher in Model.TeacherViewModelList)
+                    {
+                        <tr>
+                            <td>@teacher.Id</td>
+                            <td><img src="~/images/@teacher.ImageUrl" width="50" /></td>
+                            <td>@teacher.FullName</td>
+                            <td>@teacher.Age</td>
+                            <td>@teacher.CreatedDate.ToShortDateString()</td>
+                          @*  <td>@teacher.IsActive</td>*@
+                            <td>
+                                <form class="form-check"
+                              asp-area="Admin"
+                              asp-controller="Teacher"
+                              asp-action="UpdateIsActive"
+                              asp-route-id="@teacher.Id">
+                                    <div class="form-check form-switch">
+                                        <input class="form-check-input"
+                                               type="checkbox"
+                                               role="switch"
+                                               id="flexSwitchCheckChecked" @(teacher.IsActive ? "checked" : "")
+                                               onchange="document.getElementById(`form-teacher-is-active-@teacher.Id`).submit();">
+                                    </div>
+
+                                </form>
+
+                            </td>
+
+                            <td>
+                                <!-- Kalıcı Silme Butonu -->
+                                <a class="btn btn-danger btn-sm"
+                           asp-area="Admin"
+                           asp-controller="Teacher"
+                           asp-action="Delete"
+                           asp-route-id="@teacher.Id">
+                                    <i class="fa-solid fa-trash"></i>
+                                </a>
+                                <!-- Soft Silme Butonu -->
+                                @if (Model.SourceAction == "Index")
+                                {
+                                  @*  @await Html.PartialAsync("_TeacherDeletePartial",teacher)*@
+                                    <!--Teacher Güncelleme Butonu -->
+                                    <a class="btn btn-info btn-sm"
+                           asp-area="Admin"
+                           asp-controller="Teacher"
+                           asp-action="Edit"
+                           asp-route-id="@teacher.Id">
+                                        <i class="fa-solid fa-pen-to-square"></i>
+                                    </a>
+                                }
+                                else
+                                {
+                                    <a class="bn btn-success btn-sm"
+                                     asp-area="Admin"
+                                     asp-controller="Teacher"
+                                     asp-action="SoftDelete"
+                                     asp-route-id="@teacher.Id">
+                                        <i class="fa-solid fa-arrow-rotate-left"></i>
+                                    </a>
+                                }
+
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+}
+
+else
+{
+    <div class="alert alert-warning" role="alert">
+        We Have'not any Teacher Information
+    </div>
+}
+
+@section Css{
+    @await Html.PartialAsync("_DataTablesStylesPartial")
+}
+
+@section Js{
+    @await Html.PartialAsync("_DataTablesScriptsPartial")
+}
+
+
+
+

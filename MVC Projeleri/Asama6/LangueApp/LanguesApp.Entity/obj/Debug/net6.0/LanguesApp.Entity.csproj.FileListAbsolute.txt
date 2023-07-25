@@ -1,0 +1,150 @@
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.deps.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfo.cs
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CopyComplete
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\refint\LanguesApp.Entity.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\ref\LanguesApp.Entity.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.deps.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfo.cs
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CopyComplete
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\refint\LanguesApp.Entity.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\ref\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.deps.json
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.AssemblyReference.cache
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfoInputs.cache
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfo.cs
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CopyComplete
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\refint\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\ref\LanguesApp.Entity.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.deps.json
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfo.cs
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CopyComplete
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\refint\LanguesApp.Entity.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\ref\LanguesApp.Entity.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.deps.json
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfo.cs
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CopyComplete
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\refint\LanguesApp.Entity.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\ref\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.deps.json
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.AssemblyReference.cache
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfoInputs.cache
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfo.cs
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CopyComplete
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\refint\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\ref\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.deps.json
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.AssemblyReference.cache
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfoInputs.cache
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfo.cs
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CopyComplete
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\refint\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\ref\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.deps.json
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.AssemblyReference.cache
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfoInputs.cache
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfo.cs
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CopyComplete
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\refint\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\ref\LanguesApp.Entity.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.deps.json
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfo.cs
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CopyComplete
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\refint\LanguesApp.Entity.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\ref\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.deps.json
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.AssemblyReference.cache
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfoInputs.cache
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.AssemblyInfo.cs
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.csproj.CopyComplete
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\refint\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Desktop\Asama5\LangueApp\LanguesApp.Entity\obj\Debug\net6.0\ref\LanguesApp.Entity.dll
