@@ -1,0 +1,696 @@
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfo.cs
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.staticwebassets.runtime.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.exe
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.deps.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.runtimeconfig.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.LanguesApp.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.LanguesApp.MVC.props
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LanguesApp.MVC.props
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LanguesApp.MVC.props
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\bundle\LanguesApp.MVC.styles.css
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\projectbundle\LanguesApp.MVC.bundle.scp.css
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CopyComplete
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\refint\LanguesApp.MVC.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.genruntimeconfig.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\ref\LanguesApp.MVC.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.staticwebassets.runtime.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.exe
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.deps.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.runtimeconfig.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfo.cs
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.LanguesApp.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.LanguesApp.MVC.props
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LanguesApp.MVC.props
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LanguesApp.MVC.props
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\bundle\LanguesApp.MVC.styles.css
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\projectbundle\LanguesApp.MVC.bundle.scp.css
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CopyComplete
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\refint\LanguesApp.MVC.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.genruntimeconfig.cache
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\ref\LanguesApp.MVC.dll
+C:\Users\user\Desktop\ASP.NETProjeOdevi-2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\libman.json
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\libman.json
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.staticwebassets.runtime.json
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.exe
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.deps.json
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.runtimeconfig.json
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.pdb
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.pdb
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.AssemblyReference.cache
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfoInputs.cache
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfo.cs
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CoreCompileInputs.cache
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cache
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cs
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.LanguesApp.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.LanguesApp.MVC.props
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LanguesApp.MVC.props
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LanguesApp.MVC.props
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\bundle\LanguesApp.MVC.styles.css
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\projectbundle\LanguesApp.MVC.bundle.scp.css
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CopyComplete
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\refint\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.genruntimeconfig.cache
+C:\Users\HAFTASONU\Desktop\abc\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\ref\LanguesApp.MVC.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\libman.json
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.staticwebassets.runtime.json
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.exe
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.deps.json
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.runtimeconfig.json
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.pdb
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.pdb
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfo.cs
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.LanguesApp.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.LanguesApp.MVC.props
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LanguesApp.MVC.props
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LanguesApp.MVC.props
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\bundle\LanguesApp.MVC.styles.css
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\projectbundle\LanguesApp.MVC.bundle.scp.css
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CopyComplete
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\refint\LanguesApp.MVC.dll
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.genruntimeconfig.cache
+C:\Users\user\Desktop\abc2\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\ref\LanguesApp.MVC.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\libman.json
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.staticwebassets.runtime.json
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.exe
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.deps.json
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.runtimeconfig.json
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.pdb
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.pdb
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfo.cs
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.LanguesApp.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.LanguesApp.MVC.props
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LanguesApp.MVC.props
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LanguesApp.MVC.props
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\bundle\LanguesApp.MVC.styles.css
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\projectbundle\LanguesApp.MVC.bundle.scp.css
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CopyComplete
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\refint\LanguesApp.MVC.dll
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.genruntimeconfig.cache
+C:\Users\user\Desktop\abc3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\ref\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\libman.json
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.staticwebassets.runtime.json
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.exe
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.deps.json
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.runtimeconfig.json
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.pdb
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.pdb
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.AssemblyReference.cache
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfoInputs.cache
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfo.cs
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CoreCompileInputs.cache
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cache
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cs
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.LanguesApp.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.LanguesApp.MVC.props
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LanguesApp.MVC.props
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LanguesApp.MVC.props
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\bundle\LanguesApp.MVC.styles.css
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\projectbundle\LanguesApp.MVC.bundle.scp.css
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CopyComplete
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\refint\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.genruntimeconfig.cache
+C:\Users\HAFTASONU\Desktop\Asama3\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\ref\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\libman.json
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.staticwebassets.runtime.json
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.exe
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.deps.json
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.runtimeconfig.json
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.pdb
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.pdb
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.AssemblyReference.cache
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfoInputs.cache
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfo.cs
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CoreCompileInputs.cache
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cache
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cs
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.LanguesApp.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.LanguesApp.MVC.props
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LanguesApp.MVC.props
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LanguesApp.MVC.props
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\bundle\LanguesApp.MVC.styles.css
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\projectbundle\LanguesApp.MVC.bundle.scp.css
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CopyComplete
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\refint\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.genruntimeconfig.cache
+C:\Users\HAFTASONU\Documents\GitHub\Bright2301_EnesBatuhanHalac_Odevler\MVC Projeleri\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\ref\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\libman.json
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.staticwebassets.runtime.json
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.exe
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.deps.json
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.runtimeconfig.json
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.pdb
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.pdb
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.AssemblyReference.cache
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfoInputs.cache
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfo.cs
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CoreCompileInputs.cache
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cache
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cs
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.LanguesApp.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.LanguesApp.MVC.props
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LanguesApp.MVC.props
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LanguesApp.MVC.props
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\bundle\LanguesApp.MVC.styles.css
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\projectbundle\LanguesApp.MVC.bundle.scp.css
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CopyComplete
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\refint\LanguesApp.MVC.dll
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.genruntimeconfig.cache
+C:\Users\HAFTASONU\Desktop\Asama4\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\ref\LanguesApp.MVC.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.AssemblyInfo.cs
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\refint\LanguesApp.MVC.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\libman.json
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.staticwebassets.runtime.json
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.exe
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.deps.json
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.runtimeconfig.json
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.MVC.pdb
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.dll
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Business.pdb
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Data.pdb
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Core.pdb
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\bin\Debug\net6.0\LanguesApp.Entity.pdb
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.LanguesApp.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.LanguesApp.MVC.props
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LanguesApp.MVC.props
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LanguesApp.MVC.props
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\bundle\LanguesApp.MVC.styles.css
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\scopedcss\projectbundle\LanguesApp.MVC.bundle.scp.css
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.csproj.CopyComplete
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\LanguesApp.MVC.genruntimeconfig.cache
+C:\Users\user\Desktop\Asama5\LangueApp\LanguesApp.MVC\obj\Debug\net6.0\ref\LanguesApp.MVC.dll
