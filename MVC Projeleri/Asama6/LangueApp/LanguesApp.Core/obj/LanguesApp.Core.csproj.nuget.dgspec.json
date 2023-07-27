@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj",
         "projectName": "LanguesApp.Core",
-        "projectPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj",
-        "packagesPath": "C:\\Users\\HAFTASONU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Core\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HAFTASONU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

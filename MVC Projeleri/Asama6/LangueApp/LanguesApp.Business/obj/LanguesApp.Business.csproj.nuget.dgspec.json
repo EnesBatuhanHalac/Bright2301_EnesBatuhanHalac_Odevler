@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Business\\LanguesApp.Business.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Business\\LanguesApp.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Business\\LanguesApp.Business.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Business\\LanguesApp.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Business\\LanguesApp.Business.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Business\\LanguesApp.Business.csproj",
         "projectName": "LanguesApp.Business",
-        "projectPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Business\\LanguesApp.Business.csproj",
-        "packagesPath": "C:\\Users\\HAFTASONU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Business\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Business\\LanguesApp.Business.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Business\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HAFTASONU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj": {
-                "projectPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj"
+              "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj"
               },
-              "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj": {
-                "projectPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj"
+              "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj"
               }
             }
           }
@@ -66,25 +62,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj",
         "projectName": "LanguesApp.Core",
-        "projectPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj",
-        "packagesPath": "C:\\Users\\HAFTASONU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Core\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HAFTASONU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -125,25 +117,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj",
         "projectName": "LanguesApp.Data",
-        "projectPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj",
-        "packagesPath": "C:\\Users\\HAFTASONU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Data\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Data\\LanguesApp.Data.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HAFTASONU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,8 +145,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj": {
-                "projectPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj"
+              "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj"
               }
             }
           }
@@ -204,25 +192,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj",
         "projectName": "LanguesApp.Entity",
-        "projectPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj",
-        "packagesPath": "C:\\Users\\HAFTASONU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Entity\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Entity\\LanguesApp.Entity.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Entity\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HAFTASONU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -236,8 +220,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj": {
-                "projectPath": "C:\\Users\\HAFTASONU\\Desktop\\Asama5\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj"
+              "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Bright2301_EnesBatuhanHalac_Odevler\\MVC Projeleri\\Asama6\\LangueApp\\LanguesApp.Core\\LanguesApp.Core.csproj"
               }
             }
           }
@@ -267,7 +251,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
