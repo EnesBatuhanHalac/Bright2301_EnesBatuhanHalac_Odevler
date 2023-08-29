@@ -1,0 +1,148 @@
+﻿@model TeacherEditViewModel
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+        <div class="card shadow-lg border-0 rounded-lg mt-3">
+            <div class="card-header">
+                <div class="row">
+                    <div class="col">
+                        <h3 class="font-weight-light mb-2">Yazar Güncelleme</h3>
+                    </div>
+                    <div class="col text-end">
+                        <span>
+                            <a asp-area="Admin" asp-controller="Teacher" asp-action="Index"
+                               class="btn btn-link">Vazgeç</a>
+                        </span>
+                    </div>
+                </div>
+
+            </div>
+            <div class="card-body">
+                <form asp-area="Admin" asp-controller="Teacher" asp-action="Edit" method="post" enctype="multipart/form-data">
+                    <input type="hidden" asp-for="Id" />
+                    <input type="hidden" asp-for="Url" />
+
+                    <div class="row g-3 mb-3">
+                        <div class="col-md-4">
+                            <div class="form-floating mb-2 mb-md-0">
+                                <input asp-for="Name" class="form-control"
+                                       placeholder="Kategori adını giriniz.." />
+                                <label asp-for="Name"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="Name"></span>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-floating mb-2 mb-md-0">
+                                <input asp-for="LastName" class="form-control" placeholder="Soyadını giriniz.." />
+                                <label asp-for="LastName"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="LastName"></span>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-floating mb-2 mb-md-0">
+                                <input asp-for="Email" class="form-control" placeholder="E-Posta Adresini giriniz.." />
+                                <label asp-for="Email"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="Email"></span>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-floating mb-2 mb-md-0">
+                                <input asp-for="PhoneNumber" class="form-control" placeholder="Telefon Numaranızı giriniz.." />
+                                <label asp-for="PhoneNumber"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="LastName"></span>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-floating mb-2 mb-md-0">
+                                <input asp-for="Country" class="form-control" placeholder="Country giriniz.." />
+                                <label asp-for="Country"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="LastName"></span>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-floating mb-2 mb-md-0">
+                                <input asp-for="Price" class="form-control" placeholder="Saatlik Ücret giriniz.." />
+                                <label asp-for="Price"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="LastName"></span>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-floating">
+                                <select class="form-select" asp-for="Age" asp-items="@Model.Ages"></select>
+                                <label asp-for="Age"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="Age"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="">
+                                <label class="form-label" asp-for="About"></label>
+                                <textarea class="form-control fs-1" asp-for="About" id="ckeditor-text"></textarea>
+                                <span class="text-danger" asp-validation-for="About"></span>
+                            </div>
+                            <span class="text-danger" asp-validation-for="About"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-check">
+                                <input class="form-check-input" asp-for="IsActive" type="checkbox">
+                                <label class="form-check-label" asp-for="IsActive"></label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" asp-for="IsDeleted" type="checkbox">
+                                <label class="form-check-label" asp-for="IsDeleted"></label>
+                            </div>
+
+                        </div>
+                        <div class="col-md-6 text-end d-flex align-items-end justify-content-end gap-2">
+
+                            <label for="photo-file" class="btn btn-secondary btn-sm">Resmi Değiştir</label>
+                            <label id="photo-url">@Model.ImageUrl</label>
+                            <input class="d-none" type="file" id="photo-file" name="PhotoFile" accept="image/*">
+
+                            <img id="photo-viewer" src="~/images/@Model.ImageUrl" width="60" />
+                        </div>
+                    </div>
+
+                    <div class="mt-4 mb-0">
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-primary btn-block">Değişiklikleri Kaydet</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="card-footer text-center py-3">
+                <div class="small">
+                    <a asp-area="Admin" asp-controller="Teacher" asp-action="Index">
+                        List All Teacher
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Js{
+    @await Html.PartialAsync("_ValidationScriptsPartial");
+    @await Html.PartialAsync("_CkEditorPartialJs")
+    <script>
+        //const photoFile = document.getElementById("photo-file");
+        //const photoViewer = document.getElementById("photo-viewer");
+        //const photoUrl = document.getElementById("photo-url");
+
+        //photoFile.addEventListener("change", function(event){
+        //    let selectedFiles = event.target.files;
+        //    photoViewer.setAttribute("src",window.URL.createObjectURL(selectedFiles[0]));
+        //    photoUrl.innerText = photoViewer.getAttribute("src");
+        //});
+        $("#photo-file").on("change",function(event){
+            let selectedFiles = event.target.files;
+            $("#photo-viewer").attr("src",window.URL.createObjectURL(selectedFiles[0]));
+            $("#photo-url").text($("#photo-viewer").attr("src"));
+        });
+    </script>
+}
+
+@section Css{
+    <script src="//cdn.ckeditor.com/4.21.0/full/ckeditor.js"></script>
+}

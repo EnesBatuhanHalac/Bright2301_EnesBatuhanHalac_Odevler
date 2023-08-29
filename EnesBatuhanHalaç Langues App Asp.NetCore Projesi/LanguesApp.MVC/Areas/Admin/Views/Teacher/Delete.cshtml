@@ -1,0 +1,55 @@
+﻿@model TeacherDeleteViewModel
+<h1 class="display-6 text-danger mt-3">Teacher Siliniyor...!</h1>
+<hr />
+<table class="table w-50 table-bordered">
+    <tr>
+        <th>Id:</th>
+        <td>@Model.Id</td>
+        <th>Ad:</th>
+        <td>@Model.first_Name @Model.last_Name</td>
+    </tr>
+    <tr>
+        <th>Açıklama:</th>
+        <td>@Html.Raw(Model.About)</td>
+        <th>Url:</th>
+        <td>@Model.Url</td>
+    </tr>
+    <tr>
+        <th>Aktif mi?:</th>
+        <td class="@(Model.IsActive ? "text-success" : "text-danger") fw-bold ">
+            @(Model.IsActive ? "AKTİF" : "PASİF")
+        </td>
+        <th>Teacher Price</th>
+        <td>@Model.Price.ToString("c")</td>
+      
+    </tr>
+    <tr>
+        <th>Oluşturulma Tarihi:</th>
+        <td>@Model.CreatedDate</td>
+        <th>Son Değişiklik Tarihi:</th>
+        <td>@Model.ModifiedDate</td>
+      
+    </tr>
+    <tr>
+        <th>Country</th>
+        <td>@Model.Country</td>
+        <th>Phone Number</th>
+        <td>@Model.phoneNumber</td>
+    </tr>
+    <tr>
+        <th>Age</th>
+        <td>@Model.Age</td>
+        <th>EMail Adress</th>
+        <td>@Model.Email</td>
+    </tr>
+</table>
+<a class="btn btn-warning" asp-area="Admin" asp-controller="Teacher" asp-action="Index">Vazgeç</a>
+
+<a class="btn btn-danger" asp-area="Admin" asp-controller="Teacher" asp-action="HardDelete"
+   asp-route-id="@Model.Id">Kalıcı Olarak Sil!</a>
+<div class="mt-2">
+    <label class="text-danger">
+        * @Model.first_Name @Model.last_Name adlı Teacher, veri tabanından kalıcı olarak
+        silinecektir!
+    </label>
+</div>

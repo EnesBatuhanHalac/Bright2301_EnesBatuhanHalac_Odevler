@@ -1,0 +1,112 @@
+﻿@model TeacherAddViewModel
+
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+        <div class="card shadow-lg border-0 rounded-lg mt-3">
+            <div class="card-header">
+                <h3 class="font-weight-light mb-2">Yazar Ekleme</h3>
+            </div>
+            <div class="card-body">
+                <form asp-area="Admin" asp-controller="Teacher" asp-action="Create" method="post">
+                    <div class="row g-3 mb-3">
+                        <div class="col-md-4">
+                            <div class="form-floating mb-2 mb-md-0">
+                                <input asp-for="FirstName" class="form-control"
+                                       placeholder="Kategori adını giriniz.." />
+                                <label asp-for="FirstName"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="FirstName"></span>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-floating mb-2 mb-md-0">
+                                <input asp-for="LastName" class="form-control" placeholder="Kategori adını giriniz.." />
+                                <label asp-for="LastName"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="LastName"></span>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-floating mb-2 mb-md-0">
+                                <input asp-for="Country" class="form-control" placeholder="Country adını giriniz.." />
+                                <label asp-for="Country"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="Country"></span>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-floating mb-2 mb-md-0">
+                                <input asp-for="PhoneNumber" class="form-control" placeholder="Kategori adını giriniz.." />
+                                <label asp-for="PhoneNumber"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="PhoneNumber"></span>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-floating mb-2 mb-md-0">
+                                <input asp-for="Email" class="form-control" placeholder="Email adını giriniz.." />
+                                <label asp-for="Email"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="Email"></span>
+                        </div>
+
+             
+
+                        <div class="col-md-4">
+                            <div class="form-floating mb-2 mb-md-0">
+                                <input type="text" asp-for="Price" class="form-control" placeholder="Price adını giriniz.." />
+                                <label asp-for="Price"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="Price"></span>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-floating">
+                                <select class="form-select" asp-for="Age" asp-items="@Model.Ages"></select>
+                                <label asp-for="Age"></label>
+                            </div>
+                            <span class="text-danger" asp-validation-for="Age"></span>
+                        </div>
+
+                        <div class="col-md-12">
+                            <div class="">
+                                <label class="form-label" asp-for="About"></label>
+                                <textarea class="form-control" asp-for="About" id="ckeditor-text"></textarea>
+                            </div>
+                            <span class="text-danger" asp-validation-for="About"></span>
+                        </div>
+
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" asp-for="IsActive" type="checkbox">
+                        <label class="form-check-label" for="IsActive">
+                            Aktif mi?
+                        </label>
+                    </div>
+
+                    <div class="mt-4 mb-0">
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-primary btn-block">Oluştur</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="card-footer text-center py-3">
+                <div class="small">
+                    <a asp-area="Admin" asp-controller="Teacher" asp-action="Index">
+                        Tüm Yazarları Listele
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Js{
+    @await Html.PartialAsync("_ValidationScriptsPartial");
+    @await Html.PartialAsync("_CkEditorPartialJs")
+
+}
+
+@section Css{
+    <script src="//cdn.ckeditor.com/4.21.0/full/ckeditor.js"></script>
+}

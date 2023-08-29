@@ -1,0 +1,34 @@
+﻿@model List<TeacherViewModel>
+<div class="row ">
+    <div class="col-md-10">
+        <div class="row g-3">
+            @foreach (var teacher in Model)
+            {
+
+                <div class="card mx-3 my-4 text-center" style="width: 1 8rem;">
+                    <img class="card-img-top " style="width:300px" src="~/images/@teacher.ImageUrl" alt="@teacher.ImageUrl">
+
+                    <div class="card-body">
+                        <h5 class="card-title">@teacher.Name @teacher.LastName</h5>
+                        <p class="card-text">@teacher.About</p>
+                    </div>
+
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Age: @teacher.Age</li>
+                        <li class="list-group-item">Country: @teacher.Country</li>
+                        <li class="list-group-item">Price For An Hours: @teacher.Price.ToString("c")</li>
+                    </ul>
+
+                    <div class="d-flex justify-content-between">
+                        <a asp-area="" asp-controller="Teacher" asp-action="TeacherDetails"
+                           asp-route-url="@teacher.Url" class="btn btn-info btn-sm text-white card-img-top"> <i class="fa-solid fa-arrow-left fa-beat-fade fa-lg" style="color:#ffffff"></i>  Ayrıntılı Ogretmen Bilgisi</a>
+                    </div>
+                </div>
+
+
+
+            }
+
+        </div>
+    </div>
+</div>
