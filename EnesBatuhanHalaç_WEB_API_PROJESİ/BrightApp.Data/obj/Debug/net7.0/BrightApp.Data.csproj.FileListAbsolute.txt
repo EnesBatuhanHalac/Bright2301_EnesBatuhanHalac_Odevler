@@ -1,0 +1,51 @@
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\bin\Debug\net7.0\BrightApp.Data.deps.json
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\bin\Debug\net7.0\BrightApp.Data.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\bin\Debug\net7.0\BrightApp.Data.pdb
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\bin\Debug\net7.0\BrightApp.Entity.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\bin\Debug\net7.0\BrightApp.Entity.pdb
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.csproj.CopyComplete
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\obj\Debug\net7.0\refint\BrightApp.Data.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.pdb
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\obj\Debug\net7.0\ref\BrightApp.Data.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\bin\Debug\net7.0\BrightApp.Data.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\bin\Debug\net7.0\BrightApp.Data.deps.json
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\bin\Debug\net7.0\BrightApp.Data.runtimeconfig.json
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\bin\Debug\net7.0\BrightApp.Data.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\bin\Debug\net7.0\BrightApp.Data.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\bin\Debug\net7.0\BrightApp.Entity.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\bin\Debug\net7.0\BrightApp.Entity.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.csproj.CopyComplete
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\obj\Debug\net7.0\refint\BrightApp.Data.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Data\obj\Debug\net7.0\ref\BrightApp.Data.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\bin\Debug\net7.0\BrightApp.Data.deps.json
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\bin\Debug\net7.0\BrightApp.Data.runtimeconfig.json
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\bin\Debug\net7.0\BrightApp.Data.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\bin\Debug\net7.0\BrightApp.Data.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\bin\Debug\net7.0\BrightApp.Entity.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\bin\Debug\net7.0\BrightApp.Entity.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.csproj.CopyComplete
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\obj\Debug\net7.0\refint\BrightApp.Data.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\obj\Debug\net7.0\BrightApp.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Data\obj\Debug\net7.0\ref\BrightApp.Data.dll

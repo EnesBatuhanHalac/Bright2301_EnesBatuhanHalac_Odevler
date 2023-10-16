@@ -1,0 +1,236 @@
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.exe
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.deps.json
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.pdb
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\BrightApp.Data.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\BrightApp.Entity.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\BrightApp.Data.pdb
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\BrightApp.Entity.pdb
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets\msbuild.BrightAcademieWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BrightAcademieWebApp.props
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BrightAcademieWebApp.props
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BrightAcademieWebApp.props
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\scopedcss\bundle\BrightAcademieWebApp.styles.css
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.csproj.CopyComplete
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\refint\BrightAcademieWebApp.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.pdb
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\obj\Debug\net7.0\ref\BrightAcademieWebApp.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightAcademieWebApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.exe
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.deps.json
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.runtimeconfig.json
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\BrightApp.Data.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\BrightApp.Entity.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\BrightApp.Data.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\BrightApp.Entity.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.AssemblyInfo.cs
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets\msbuild.BrightAcademieWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BrightAcademieWebApp.props
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BrightAcademieWebApp.props
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BrightAcademieWebApp.props
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\scopedcss\bundle\BrightAcademieWebApp.styles.css
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.csproj.CopyComplete
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\refint\BrightAcademieWebApp.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.genruntimeconfig.cache
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\obj\Debug\net7.0\ref\BrightAcademieWebApp.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Services.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightAcademieWebApp\bin\Debug\net7.0\Services.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.exe
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.deps.json
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.runtimeconfig.json
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\BrightAcademieWebApp.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\BrightApp.Data.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\BrightApp.Entity.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Presentation.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Services.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\BrightApp.Data.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\BrightApp.Entity.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Presentation.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\Services.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.AssemblyInfo.cs
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets\msbuild.BrightAcademieWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BrightAcademieWebApp.props
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BrightAcademieWebApp.props
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BrightAcademieWebApp.props
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\scopedcss\bundle\BrightAcademieWebApp.styles.css
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.csproj.CopyComplete
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\refint\BrightAcademieWebApp.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\BrightAcademieWebApp.genruntimeconfig.cache
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\obj\Debug\net7.0\ref\BrightAcademieWebApp.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\nlog.config
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\NLog.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightAcademieWebApp\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

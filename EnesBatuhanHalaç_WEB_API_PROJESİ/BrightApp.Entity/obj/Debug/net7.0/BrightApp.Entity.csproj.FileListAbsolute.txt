@@ -1,0 +1,36 @@
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Entity\bin\Debug\net7.0\BrightApp.Entity.deps.json
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Entity\bin\Debug\net7.0\BrightApp.Entity.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Entity\bin\Debug\net7.0\BrightApp.Entity.pdb
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Entity\obj\Debug\net7.0\refint\BrightApp.Entity.dll
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.pdb
+C:\Users\user\Documents\GitHub\Enes_Batuhan_Halac_Ilerleme_Raporu\BrightApp.Entity\obj\Debug\net7.0\ref\BrightApp.Entity.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Entity\bin\Debug\net7.0\BrightApp.Entity.deps.json
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Entity\bin\Debug\net7.0\BrightApp.Entity.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Entity\bin\Debug\net7.0\BrightApp.Entity.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.AssemblyInfo.cs
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Entity\obj\Debug\net7.0\refint\BrightApp.Entity.dll
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\buradan devam\BrightApp.Entity\obj\Debug\net7.0\ref\BrightApp.Entity.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Entity\bin\Debug\net7.0\BrightApp.Entity.deps.json
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Entity\bin\Debug\net7.0\BrightApp.Entity.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Entity\bin\Debug\net7.0\BrightApp.Entity.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.AssemblyInfo.cs
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Entity\obj\Debug\net7.0\refint\BrightApp.Entity.dll
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Entity\obj\Debug\net7.0\BrightApp.Entity.pdb
+C:\Users\user\Desktop\Yeni klasör (4)\BuradanDevam\BrightApp.Entity\obj\Debug\net7.0\ref\BrightApp.Entity.dll
